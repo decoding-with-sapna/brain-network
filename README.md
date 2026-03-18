@@ -41,8 +41,3 @@ It is inspired by the concept of a **Digital Twin of the Brain**, where computat
 * Pandas
 * Matplotlib / Plotly
 
----
-
-## 👩‍💻 Author
-
-Mahalaxmi Sita
