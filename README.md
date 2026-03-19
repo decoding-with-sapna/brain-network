@@ -40,4 +40,5 @@ It is inspired by the concept of a **Digital Twin of the Brain**, where computat
 * NetworkX
 * Pandas
 * Matplotlib / Plotly
-
+##  3D Disease Propagation Simulation
+[Click here to view interactive simulation](images/brain_simulation.html)
