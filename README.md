@@ -1,15 +1,21 @@
-# brain-network
+## A computational model of the human brain network simulating disease propagation using graph theory and connectome data.
 
+# brain-network
 This project models the human brain as a complex network using graph theory and simulates disease progression through network perturbation.
 It is inspired by the concept of a **Digital Twin of the Brain**, where computational models are used to study neurological behavior and disease impact.
 
+## Why This Matters
+Understanding how diseases propagate through brain networks can help in:
+- Early diagnosis of neurological disorders  
+- Identifying critical brain regions for intervention  
+- Advancing personalized medicine through digital brain twins  
 ##  Project Preview
 
 ## Brain Network Structure
 A graph-based representation where nodes correspond to brain regions and edges represent their connectivity.
 ![Graph](images/graph.png)
 
-### Disease Propagation Simulation
+## Network-Based Disease Propagation Simulation
 This plot shows how a disease spreads across the brain network over time from different starting regions.
 ![Simulation](images/simulation.png)
 
@@ -65,5 +71,5 @@ Nodes represent anatomical brain regions and edges represent structural connecti
 * NetworkX
 * Pandas
 * Matplotlib / Plotly
-##  3D Disease Propagation Simulation
-[Click here to view interactive simulation](images/brain_simulation.html)
+
+
