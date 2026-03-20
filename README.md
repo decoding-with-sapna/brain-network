@@ -13,7 +13,7 @@ Understanding how diseases propagate through brain networks can help in:
 
 ## Brain Network Structure
 A graph-based representation where nodes correspond to brain regions and edges represent their connectivity.
-![Graph](images/graph.png)
+![Graph](images/graph(1).png)
 
 ## Network-Based Disease Propagation Simulation
 This plot shows how a disease spreads across the brain network over time from different starting regions.
@@ -21,11 +21,11 @@ This plot shows how a disease spreads across the brain network over time from di
 
 ## Network Damage Analysis
 This visualization demonstrates how the removal of key brain regions affects overall network efficiency.
-![Simulation](images/damage.png)
+![Damage](images/damage.png)
 
 ## Interactive 3D Simulation ##
 An interactive 3D visualization of disease propagation in the brain network.
-![Centrality](images/\brain_simulation.html)  
+![View Interactive Simulation](images/brain_simulation.html)  
 
 ##  Anatomical Brain Mapping
 This visualization maps the brain network onto real anatomical space using connectome data.
