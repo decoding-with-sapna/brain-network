@@ -33,7 +33,7 @@ Brain connectome showing anatomical mapping of network connectivity.
 
 ## Interactive 3D Simulation
 An interactive 3D visualization of disease propagation in the brain network.
-[View 3D Simulation](images/brain_simulation.html)
+[View Interactive Simulation](https://decoding-with-sapna.github.io/brain-network/images/brain_simulation.html)
 
  Methodology
 1. Data Loading
