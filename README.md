@@ -6,19 +6,19 @@ This project models the human brain as a complex network and simulates disease p
 It serves as a foundational step toward building a Digital Brain Twin for studying neurological behaviour and disease dynamics.
 
 ## Project Preview
-?? Brain Network Structure
+# Brain Network Structure
 A graph-based representation where nodes correspond to brain regions and edges represent their connectivity.
   
 ![Brain Network](images/graph.png)
 Graph representation of brain regions and their connectivity.
 
-?? Network-Based Disease Propagation Simulation
+# Network-Based Disease Propagation Simulation
 Simulation of network-based disease propagation demonstrating how infection spreads across interconnected brain regions over time.
 
 ![Simulation](images/simulation.png)
 Disease spread across the brain network over multiple time steps.
 
-?? Network Damage Analysis
+# Network Damage Analysis
 This visualization demonstrates how the removal of key brain regions affects overall network efficiency.
 
  ![Damage](images/damage.png)
@@ -46,7 +46,7 @@ o Centrality measures identify important brain regions
 4. Perturbation Modelling
 o Node removal simulates structural damage
 5. Disease Spread Simulation
-o Model’s propagation across the brain network
+o Modelâ€™s propagation across the brain network
 
 ## Key Insights
 * Certain brain regions act as hubs critical for maintaining network stability
