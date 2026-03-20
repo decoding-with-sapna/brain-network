@@ -26,8 +26,8 @@ Impact of node removal on brain network efficiency.
 
 ## Anatomical Brain Mapping
 This connectome visualization maps the brain network onto real anatomical brain views.
-* Nodes ? anatomical brain regions
-* Edges ? structural connectivity (connectome-based relationships)
+* Nodes : anatomical brain regions
+* Edges : structural connectivity (connectome-based relationships)
 ![Connectome](images/connectome.png)
 Brain connectome showing anatomical mapping of network connectivity.
 
