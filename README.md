@@ -10,29 +10,35 @@ It serves as a foundational step toward building a Digital Brain Twin for studyi
 A graph-based representation where nodes correspond to brain regions and edges represent their connectivity.
   
 ![Brain Network](images/graph.png)
+
 Graph representation of brain regions and their connectivity.
 
 # Network-Based Disease Propagation Simulation
 Simulation of network-based disease propagation demonstrating how infection spreads across interconnected brain regions over time.
 
 ![Simulation](images/simulation.png)
+
 Disease spread across the brain network over multiple time steps.
 
 # Network Damage Analysis
 This visualization demonstrates how the removal of key brain regions affects overall network efficiency.
 
  ![Damage](images/damage.png)
+ 
 Impact of node removal on brain network efficiency.
 
 ## Anatomical Brain Mapping
 This connectome visualization maps the brain network onto real anatomical brain views.
 * Nodes : anatomical brain regions
 * Edges : structural connectivity (connectome-based relationships)
+  
 ![Connectome](images/connectome.png)
+
 Brain connectome showing anatomical mapping of network connectivity.
 
 ## Interactive 3D Simulation
 An interactive 3D visualization of disease propagation in the brain network.
+
 [View Interactive Simulation](https://decoding-with-sapna.github.io/brain-network/images/brain_simulation.html)
 
  Methodology
